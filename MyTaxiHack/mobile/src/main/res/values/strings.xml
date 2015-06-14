@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTaxiHack</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="map">Mappa</string>
+    <string name="call">Chiama</string>
+    <string name="send">Email</string>
+
+    <string name="notify">Notify Wearable</string>
+
+</resources>
