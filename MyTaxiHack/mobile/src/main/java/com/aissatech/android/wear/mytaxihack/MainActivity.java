@@ -74,14 +74,14 @@ public class MainActivity extends AppCompatActivity {//ActionBarActivity depreca
                 PendingIntent mapPendingIntent = PendingIntent.getActivity(MainActivity.this, 0, mapIntent, 0);
 
             //  add action: build an intent for an action to call a smartphone number
-                String number = "+393383385545";
+                String number = "+391234567890";
                 Intent callIntent = new Intent(Intent.ACTION_CALL);
                 callIntent.setData(Uri.parse("tel: " + number));
                 PendingIntent callPendingIntent = PendingIntent.getActivity(MainActivity.this, 0, callIntent, 0);
 
             // add action: build an intent for an action to send email
                 String uriText =
-                        "mailto:camelia.boban@gmail.com" +
+                        "mailto:info@email.com" +
                                 "?subject=" + Uri.encode("Arrivo in taxi") +
                                 "&body=" + Uri.encode("Sono dalle parti di San Giovanni, sto arrivando! Camelia");
                 Uri uri = Uri.parse(uriText);
