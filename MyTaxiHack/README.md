@@ -24,8 +24,8 @@ Is a project about multi card notifications to the smartwatch during a taxi ride
 
 ![img_20150616_172416849_hdr](https://cloud.githubusercontent.com/assets/3518330/8187359/b573f8e8-144f-11e5-953f-780025013f64.jpg)
 
-![screenshot_2015-06-16-17-26-22](https://cloud.githubusercontent.com/assets/3518330/8187395/cc797496-144f-11e5-8a60-ebd9c692b947.png)
-
 ![screenshot_2015-06-16-17-25-48](https://cloud.githubusercontent.com/assets/3518330/8187379/c1ea84fc-144f-11e5-93fb-5c7956e0ae96.png)
 
 ![screenshot_2015-06-16-17-26-15](https://cloud.githubusercontent.com/assets/3518330/8187388/c8e1f81c-144f-11e5-93ba-f0719e7bd4ea.png)
+
+![screenshot_2015-06-16-17-26-22](https://cloud.githubusercontent.com/assets/3518330/8187395/cc797496-144f-11e5-8a60-ebd9c692b947.png)
